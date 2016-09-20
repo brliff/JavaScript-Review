@@ -15,8 +15,6 @@ function plusOneSum(arrayInt) {
     return total;
 }
 
-
-
 /*
 
 Write a function that accepts a multi dimensional array and returns a flattened version.
